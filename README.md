@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on my [personal portfolio](https://morgannedev.github.io/portfolio-web/)
 
-- 🌱 I’m currently learning **everything as I can! I'm always, always... always learning.**
+- 🌱 I’m currently learning **Java, Python and... everything as I can. I'm always, always, always learning...**
 
 - 👨‍💻 All of my projects are available at [https://morgannedev.github.io/portfolio-web/](https://morgannedev.github.io/portfolio-web/)
 
