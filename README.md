@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I’m Mar (or Morganne — choose your fighter 🥷⚔️)</h1>
+<h1 align="center">👋 Hi there! I’m Mar (or Morganne — choose your fighter ⚔️)</h1>
 <h3 align="center">Full-stack web developer from Spain, learning every day!</h3>
 
 - 🔭 I’m currently building my personal portfolio
