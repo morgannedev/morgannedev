@@ -1,17 +1,18 @@
-<h1 align="center">Hello 👋, I'm Mar. Or Morganne, choose your fighter</h1>
-<h3 align="center">I am a passionate web developer from Spain, but I'm everywhere! :)</h3>
+<h1 align="center">👋 Hi there! I’m Mar (or Morganne — choose your fighter 🥷⚔️)</h1>
+<h3 align="center">Full-stack web developer from Spain, learning every day!</h3>
 
-- 🔭 I’m currently working on my [personal portfolio](https://morgannedev.github.io/portfolio-web/)
+- 🔭 I’m currently building my personal portfolio
+- 🌱 Always learning — right now focusing on **Java, Python, and whatever else I can get my hands on**
 
-- 🌱 I’m currently learning **Java, Python and... everything as I can. I'm always, always, always learning...**
+- 👨‍💻 You can find all my projects here:
 
-- 👨‍💻 All of my projects are available at [https://morgannedev.github.io/portfolio-web/](https://morgannedev.github.io/portfolio-web/)
+  👉 https://morgannedev.github.io/portfolio-web/
 
-- 💬 Ask me about **anything, maybe I know, maybe I don't, but sure we can enjoy learning or sharing knowledge together.**
+- 💬 Love talking about code, tech, art, games — anything that sparks creativity
 
-- 📫 How to reach me **msalejos7l@gmail.com**
+- 📫 Reach me at msalejos7l@gmail.com
 
-- ⚡ Fun fact **I'm also a knight from the 15th century🛡️. Sometimes I code, sometimes I joust🐎 and fight with swords⚔️!**
+- ⚡ Fun fact: I'm also a 15th-century knight 🛡️.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
