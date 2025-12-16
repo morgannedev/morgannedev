@@ -4,7 +4,7 @@
 <p align="center">I'm a developer with a strong interest in **backend development**, APIs, and system logic.  
 I enjoy designing clean architectures, working with data, and building applications that actually solve problems.
 
-I combine backend-focused development with enough frontend knowledge to understand the full picture.</p>
+<p align="center">I combine backend-focused development with enough frontend knowledge to understand the full picture.</p>
 
 - 👨‍💻 You can find all my projects here:
 
