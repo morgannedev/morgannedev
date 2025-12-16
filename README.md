@@ -1,8 +1,10 @@
 <h1 align="center">👋 Hi there! I’m Mar (or Morganne — choose your fighter ⚔️)</h1>
-<h3 align="center">Full-stack web developer from Spain, learning every day!</h3>
+<h3 align="center">Junior Backend Developer</h3>
 
-- 🔭 I’m currently building my personal portfolio
-- 🌱 Always learning — right now focusing on **Java, Python, and whatever else I can get my hands on**
+I'm a developer with a strong interest in **backend development**, APIs, and system logic.  
+I enjoy designing clean architectures, working with data, and building applications that actually solve problems.
+
+I combine backend-focused development with enough frontend knowledge to understand the full picture.
 
 - 👨‍💻 You can find all my projects here:
 
