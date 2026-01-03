@@ -15,6 +15,10 @@ Trabajo habitualmente con <strong>bases de datos relacionales</strong> como <str
 Me enfoco en escribir <strong>código limpio</strong>, <strong>mantenible</strong> y alineado con <strong>buenas prácticas</strong>, buscando siempre soluciones <strong>escalables</strong> y de <strong>alto rendimiento</strong>.
 </p>
 
+<h2>📚 BibliotecaApp — Java Backend</h2>
+<h3>Proyecto backend desarrollado en <strong>**Java 21**</strong>, enfocado en la implementación de <strong>**lógica de negocio**</strong>, <strong>**persistencia de datos**</strong> y <strong>**patrones de diseño**</strong>.</h3>
+🔎 Proyecto orientado a demostrar fundamentos sólidos de desarrollo backend en Java.
+
 <h3>Lenguajes: </h3>
 <table> <tr> 
   <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a></td> 
