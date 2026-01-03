@@ -18,12 +18,8 @@ Trabajo habitualmente con bases de datos relacionales como MySQL, asegurando un 
   <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td> 
 </tr> </table>
 <h3>Herramientas: </h3>
-<td>
-      <a href="https://spring.io/projects/spring-boot" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/>
-      </a>
-    </td>
 <table> <tr> 
+  <td><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></a></td>
   <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td> 
   <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td> 
   <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td> 
