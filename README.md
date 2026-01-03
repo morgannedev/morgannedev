@@ -1,10 +1,11 @@
-<h1 align="center">👋 Hi there! I’m Mar (or Morganne — choose your fighter ⚔️)</h1>
-<h3 align="center">Junior Backend Developer</h3>
+<h1 align="center">👋 ¡Hola! Soy Mar</h1>
+<h2 align="center">👨‍💻Backend Developer | Java & Spring Boot</h2>
 
-<p align="center">I'm a developer with a strong interest in **backend development**, APIs, and system logic.  
-I enjoy designing clean architectures, working with data, and building applications that actually solve problems.
-
-<p align="center">I combine backend-focused development with enough frontend knowledge to understand the full picture.</p>
+<p align="center">Soy Backend Developer con experiencia en el desarrollo de aplicaciones robustas y escalables utilizando Java (11 o superior). Cuento con un sólido dominio del ecosistema Spring, especialmente Spring Boot, Spring Web y Spring Data, enfocado en la construcción de APIs REST eficientes y bien estructuradas.
+<p align="center">Tengo experiencia aplicando Programación Orientada a Objetos (POO), patrones de diseño y patrones de integración, así como en el desarrollo de microservicios y la integración de sistemas distribuidos.
+Trabajo habitualmente con bases de datos relacionales como MySQL, asegurando un manejo eficiente de la persistencia y la integridad de los datos.
+</p>
+<p align="center">Me enfoco en escribir código limpio, mantenible y alineado con buenas prácticas, buscando siempre soluciones escalables y de alto rendimiento.</p>
 
 - 👨‍💻 You can find all my projects here:
 
