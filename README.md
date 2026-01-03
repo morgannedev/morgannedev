@@ -1,11 +1,19 @@
 <h1 align="center">👋 ¡Hola! Soy Mar</h1>
 <h2 align="center">👨‍💻Backend Developer | Java & Spring Boot</h2>
 
-<p align="justify">Soy Backend Developer con experiencia en el desarrollo de aplicaciones robustas y escalables utilizando Java (11 o superior). Cuento con un sólido dominio del ecosistema Spring (Spring Boot, Spring Web y Spring Data...), enfocado en la construcción de APIs REST eficientes y bien estructuradas.
-<p align="justify">Tengo experiencia aplicando Programación Orientada a Objetos (POO), patrones de diseño y patrones de integración, así como en el desarrollo de microservicios y la integración de sistemas distribuidos.
-Trabajo habitualmente con bases de datos relacionales como MySQL, asegurando un manejo eficiente de la persistencia y la integridad de los datos.
+<p align="justify">
+Soy <strong>Backend Developer</strong> con experiencia en el desarrollo de aplicaciones <strong>robustas y escalables</strong> utilizando <strong>Java (11 o superior)</strong>. 
+Cuento con un sólido dominio del <strong>ecosistema Spring</strong> (<strong>Spring Boot</strong>, <strong>Spring Web</strong> y <strong>Spring Data</strong>), enfocado en la construcción de <strong>APIs REST</strong> eficientes y bien estructuradas.
 </p>
-<p align="justify">Me enfoco en escribir código limpio, mantenible y alineado con buenas prácticas, buscando siempre soluciones escalables y de alto rendimiento.</p>
+
+<p align="justify">
+Tengo experiencia aplicando <strong>Programación Orientada a Objetos (POO)</strong>, <strong>patrones de diseño</strong> y <strong>patrones de integración</strong>, así como en el desarrollo de <strong>microservicios</strong> y la <strong>integración de sistemas distribuidos</strong>.
+Trabajo habitualmente con <strong>bases de datos relacionales</strong> como <strong>MySQL</strong>, asegurando un manejo eficiente de la <strong>persistencia</strong> y la <strong>integridad de los datos</strong>.
+</p>
+
+<p align="justify">
+Me enfoco en escribir <strong>código limpio</strong>, <strong>mantenible</strong> y alineado con <strong>buenas prácticas</strong>, buscando siempre soluciones <strong>escalables</strong> y de <strong>alto rendimiento</strong>.
+</p>
 
 <h3>Lenguajes: </h3>
 <table> <tr> 
