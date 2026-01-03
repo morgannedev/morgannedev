@@ -7,21 +7,7 @@ Trabajo habitualmente con bases de datos relacionales como MySQL, asegurando un 
 </p>
 <p align="left">Me enfoco en escribir código limpio, mantenible y alineado con buenas prácticas, buscando siempre soluciones escalables y de alto rendimiento.</p>
 
-- 👨‍💻 You can find all my projects here:
-
-  👉 https://morgannedev.github.io/portfolio-web/
-
-- 💬 Love talking about code, tech, art, games — anything that sparks creativity
-
-- 📫 Reach me at msalejos7l@gmail.com
-
-- ⚡ Fun fact: I'm also a 15th-century knight 🛡️.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3>Languages: </h3>
+<h3>Lenguajes: </h3>
 <table> <tr> 
   <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a></td> 
   <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td> 
@@ -31,14 +17,14 @@ Trabajo habitualmente con bases de datos relacionales como MySQL, asegurando un 
   <td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a></td> 
   <td><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a></td> 
 </tr> </table>
-<h3>Tools: </h3>
+<h3>Herramientas: </h3>
 <table> <tr> 
   <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td> 
   <td><a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a></td> 
   <td><a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a></td> 
   <td><a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/></a></td> 
 </tr> </table>
-<h3>Software and Design: </h3>
+<h3>Software y Diseño: </h3>
 <table> <tr> <td><a href="https://unity.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40"/></a></td> 
   <td><a href="https://unrealengine.com/" target="_blank"><img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" width="40"/></a></td> 
   <td><a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="40"/></a></td> 
