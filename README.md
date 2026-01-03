@@ -16,7 +16,8 @@ Me enfoco en escribir <strong>código limpio</strong>, <strong>mantenible</stron
 </p>
 
 <h2>📚 BibliotecaApp — Java Backend</h2>
-<h3>Proyecto backend desarrollado en <strong>**Java 21**</strong>, enfocado en la implementación de <strong>**lógica de negocio**</strong>, <strong>**persistencia de datos**</strong> y <strong>**patrones de diseño**</strong>.</h3>
+<p>🔗 Código completo en: https://github.com/morgannedev/Mini-Gestion-Biblioteca</p>
+<p>Proyecto backend desarrollado en <strong>**Java 21**</strong>, enfocado en la implementación de <strong>**lógica de negocio**</strong>, <strong>**persistencia de datos**</strong> y <strong>**patrones de diseño**</strong>.</p>
 🔎 Proyecto orientado a demostrar fundamentos sólidos de desarrollo backend en Java.
 
 <h3>Lenguajes: </h3>
