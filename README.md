@@ -15,7 +15,7 @@ Trabajo habitualmente con <strong>bases de datos relacionales</strong> como <str
 Me enfoco en escribir <strong>código limpio</strong>, <strong>mantenible</strong> y alineado con <strong>buenas prácticas</strong>, buscando siempre soluciones <strong>escalables</strong> y de <strong>alto rendimiento</strong>.
 </p>
 
-<h2>Mis proyectos de referencia:</h2>
+<h2>📂 Mis proyectos de referencia:</h2>
 <h3>📚 BibliotecaApp — Java Backend</h3>
 <p align="justify">🔗 Código completo en: https://github.com/morgannedev/Mini-Gestion-Biblioteca</p>
 <p align="justify">Proyecto backend desarrollado en <strong>Java 21</strong>, enfocado en la implementación de <strong>lógica de negocio</strong>, <strong>persistencia de datos</strong> y <strong>patrones de diseño</strong>.</p>
