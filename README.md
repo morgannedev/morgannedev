@@ -1,11 +1,11 @@
 <h1 align="center">👋 ¡Hola! Soy Mar</h1>
 <h2 align="center">👨‍💻Backend Developer | Java & Spring Boot</h2>
 
-<p align="center">Soy Backend Developer con experiencia en el desarrollo de aplicaciones robustas y escalables utilizando Java (11 o superior). Cuento con un sólido dominio del ecosistema Spring, especialmente Spring Boot, Spring Web y Spring Data, enfocado en la construcción de APIs REST eficientes y bien estructuradas.
-<p align="center">Tengo experiencia aplicando Programación Orientada a Objetos (POO), patrones de diseño y patrones de integración, así como en el desarrollo de microservicios y la integración de sistemas distribuidos.
+<p align="left">Soy Backend Developer con experiencia en el desarrollo de aplicaciones robustas y escalables utilizando Java (11 o superior). Cuento con un sólido dominio del ecosistema Spring (Spring Boot, Spring Web y Spring Data...), enfocado en la construcción de APIs REST eficientes y bien estructuradas.
+<p align="left">Tengo experiencia aplicando Programación Orientada a Objetos (POO), patrones de diseño y patrones de integración, así como en el desarrollo de microservicios y la integración de sistemas distribuidos.
 Trabajo habitualmente con bases de datos relacionales como MySQL, asegurando un manejo eficiente de la persistencia y la integridad de los datos.
 </p>
-<p align="center">Me enfoco en escribir código limpio, mantenible y alineado con buenas prácticas, buscando siempre soluciones escalables y de alto rendimiento.</p>
+<p align="left">Me enfoco en escribir código limpio, mantenible y alineado con buenas prácticas, buscando siempre soluciones escalables y de alto rendimiento.</p>
 
 - 👨‍💻 You can find all my projects here:
 
