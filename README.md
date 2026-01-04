@@ -1,5 +1,5 @@
 <h1 align="center">👋 ¡Hola! Soy Mar</h1>
-<h2 align="center">👨‍💻Backend Developer | Java & Spring Boot</h2>
+<h2 align="center">👨‍💻Junior Backend Developer | Java & Spring Boot</h2>
 
 <p align="justify">
 Soy <strong>Backend Developer Junior</strong> con experiencia en el desarrollo de aplicaciones backend utilizando 
