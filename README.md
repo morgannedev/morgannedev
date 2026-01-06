@@ -27,38 +27,9 @@ Me caracterizo por tener una mentalidad de <strong>aprendizaje continuo</strong>
 
 <h2>🔧 Stack Principal</h2>
 <ul>
-  <li>**Backend**: Java 17, Spring Boot, Spring Security, Hibernate/JPA</li>
-<li>**Testing**: JUnit 5, Mockito, MockMvc</li>
-<li>**Bases de datos**: MySQL, H2</li>
-<li>**Herramientas**: Maven, Git, Swagger, SLF4J</li>
+<li>Backend: Java 17, Spring Boot, Spring Security, Hibernate/JPA</li>
+<li>Testing: JUnit 5, Mockito, MockMvc</li>
+<li>Bases de datos: MySQL, H2</li>
+<li>Herramientas: Maven, Git, Swagger, SLF4J</li>
 </ul> 
-
-<h3>Lenguajes: </h3>
-<table> <tr> 
-  <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a></td> 
-  <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/></a></td> 
-  <td><a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/></a></td> 
-  <td><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/></a></td> 
-  <td><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/></a></td> 
-  <td><a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40"/></a></td> 
-</tr> </table>
-<h3>Herramientas: </h3>
-<table> <tr> 
-  <td><a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="40"/></a></td>
-  <td>
-      <a href="https://maven.apache.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="40"/>
-      </a>
-    </td>
-  <td>
-      <a href="https://hibernate.org/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="40"/>
-      </a>
-    </td>
-  <td>
-      <a href="https://git-scm.com/" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-      </a>
-    </td>
-  <td><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a></td> 
 
