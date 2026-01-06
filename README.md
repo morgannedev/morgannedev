@@ -25,6 +25,14 @@ Me caracterizo por tener una mentalidad de <strong>aprendizaje continuo</strong>
 <p align="justify">Proyecto backend desarrollado en <strong>Java 21</strong>, enfocado en la implementación de <strong>lógica de negocio</strong>, <strong>persistencia de datos</strong> y <strong>patrones de diseño</strong>.</p>
 <p align="justify">🔎 Proyecto orientado a demostrar fundamentos sólidos de desarrollo backend en Java.</p>
 
+<h2>🔧 Stack Principal</h2>
+<ul>
+  <li>**Backend**: Java 17, Spring Boot, Spring Security, Hibernate/JPA</li>
+<li>**Testing**: JUnit 5, Mockito, MockMvc</li>
+<li>**Bases de datos**: MySQL, H2</li>
+<li>**Herramientas**: Maven, Git, Swagger, SLF4J</li>
+</ul> 
+
 <h3>Lenguajes: </h3>
 <table> <tr> 
   <td><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/></a></td> 
