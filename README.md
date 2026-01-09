@@ -18,7 +18,6 @@ Me caracterizo por tener una mentalidad de <strong>aprendizaje continuo</strong>
 <h3>📚 Library API REST — Java / Spring Boot </h3>
 <p align="justify">🔗 Código completo en: https://github.com/morgannedev/LIBRARY-API-REST-JAVA</p>
 <p align="justify">API REST completa para la gestión de una biblioteca digital, desarrollada con Spring Boot y Spring Security. Incluye un sistema de préstamos de libros, autenticación JWT y control de acceso basado en roles.</p>
-<p align="justify">🔎 API completa con JWT, roles, y un sistema de préstamos que gestiona automáticamente la disponibilidad de libros.</p>
 
 <h2>🔧 Stack Principal</h2>
 <ul>
