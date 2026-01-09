@@ -21,7 +21,7 @@ Me caracterizo por tener una mentalidad de <strong>aprendizaje continuo</strong>
 
 <h2>🔧 Stack Principal</h2>
 <ul>
-<li>Backend: Java 17, Spring Boot, Spring Security, Hibernate/JPA</li>
+<li>Backend: Java +17, Spring Boot, Spring Security, Hibernate/JPA</li>
 <li>Testing: JUnit 5, Mockito, MockMvc</li>
 <li>Bases de datos: MySQL, H2</li>
 <li>Herramientas: Maven, Git, Swagger, SLF4J</li>
