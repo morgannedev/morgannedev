@@ -15,7 +15,7 @@ Me caracterizo por tener una mentalidad de <strong>aprendizaje continuo</strong>
 </p>
 
 <h2>📂 Mis proyectos de referencia:</h2>
-<h3>📚 Library API REST — Java / Spring Boot </h3>
+<h3>📚 CRUD API Rest con JWT - Librería</h3>
 <p align="justify">🔗 Código completo en: https://github.com/morgannedev/LIBRARY-API-REST-JAVA</p>
 <p align="justify">API REST completa para la gestión de una biblioteca digital, desarrollada con Spring Boot y Spring Security. Incluye un sistema de préstamos de libros, autenticación JWT y control de acceso basado en roles.</p>
 
