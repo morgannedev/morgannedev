@@ -1,8 +1,8 @@
 <h1 align="center">👋 ¡Hola! Soy Mar</h1>
-<h2 align="center">👨‍💻Junior Backend Developer | Java & Spring Boot</h2>
+<h2 align="center">👨‍💻Backend Developer | Java & Spring Boot</h2>
 
 <p align="justify">
-Soy <strong>Backend Developer Junior</strong> con experiencia en el desarrollo de aplicaciones backend utilizando 
+Soy <strong>Backend Developer</strong> con experiencia en el desarrollo de aplicaciones backend utilizando 
 <strong>Java (11 o superior)</strong>. He trabajado con el <strong>ecosistema Spring</strong> (<strong>Spring Boot</strong>, <strong>Spring Web</strong> y <strong>Spring Data</strong>) en la creación de <strong>APIs REST</strong>, aplicando buenas prácticas y una correcta estructuración del código.
 </p>
 
