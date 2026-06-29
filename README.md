@@ -16,7 +16,7 @@ Backend developer con raíces en 3D y la IA generativa. Antes construía herrami
 
 **Herramientas / DevOps** — Maven, Git, Swagger, SLF4J
 
-**Frontend** — HTML, CSS, JavaScript, React
+**Frontend** — Angular, HTML, CSS, JavaScript, React
 
 ---
 
