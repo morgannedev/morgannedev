@@ -2,17 +2,27 @@
 <h2 align="center">👨‍💻Backend Developer | Java & Spring Boot</h2>
 
 <p align="justify">
-Soy <strong>Backend Developer</strong> con experiencia en el desarrollo de aplicaciones backend utilizando 
-<strong>Java (11 o superior)</strong>. He trabajado con el <strong>ecosistema Spring</strong> (<strong>Spring Boot</strong>, <strong>Spring Web</strong> y <strong>Spring Data</strong>) en la creación de <strong>APIs REST</strong>, aplicando buenas prácticas y una correcta estructuración del código.
+Backend developer con raíces en 3D y la IA generativa.
+Antes construía herramientas y automatizaba pipelines para simulaciones científicas usadas en universidades de todo el mundo.
+Ahora construyo el backend que hace que las cosas funcionen de verdad.
 </p>
 
-<p align="justify">
-Cuento con una base sólida en <strong>Programación Orientada a Objetos (POO)</strong> y en la aplicación de <strong>patrones de diseño</strong> y <strong>patrones de integración</strong>. He participado en el desarrollo de aplicaciones siguiendo una arquitectura por capas y en el uso de <strong>bases de datos relacionales</strong> como <strong>MySQL</strong>, trabajando con la capa de persistencia de datos.
-</p>
+<h2>🔧 Stack Principal</h2>
+<ul>
+<li>Backend: Java 11+, Spring Boot, Spring Security, Spring Data, JPA, Hibernate, REST APIs, Microservicios</li>
+<li>Bases de datos: MySQL, PostgreSQL, MariaDB, H2, DB2</li>
+<li>Testing: JUnit 5, Mockito, MockMvc, AssertJ</li>
+<li>Automatización & IA: n8n, MCP (Model Context Protocol), Agentes de IA</li>
+<li>Herramientas / DevOps: Maven, Git, Swagger, SLF4J</li>
+<li>Frontend: HTML, CSS, JavaScript, React</li>
+</ul> 
 
-<p align="justify">
-Me caracterizo por tener una mentalidad de <strong>aprendizaje continuo</strong>, enfocándome en escribir <strong>código limpio</strong>, <strong>mantenible</strong> y alineado con <strong>buenas prácticas</strong>, buscando mejorar progresivamente la calidad y escalabilidad de las soluciones que desarrollo.
-</p>
+<h2>🚀 En qué estoy trabajando ahora</h2>
+<ul>
+  <li>ERP empresarial con Spring Boot + Angular + Docker — arquitectura real, no un tutorial</li>
+  <li>Automatización con n8n + agentes de IA (MCP) — flujos que conectan datos, usuarios y herramientas</li>
+  <li>Próximo paso: Grado en Ciencia de Datos</li>
+</ul>
 
 <h2>📂 Mis proyectos de referencia:</h2>
 <h3>⚫ [Backend] CRUD API Rest con JWT - Librería</h3>
@@ -25,12 +35,5 @@ Me caracterizo por tener una mentalidad de <strong>aprendizaje continuo</strong>
 <p align="justify">🔗 Código completo en: https://github.com/morgannedev/CLI_GitHub</p>
 <p align="justify">Una herramienta CLI construida en Java para extraer y mostrar tendencias en Github.</p>
 
-<h2>🔧 Stack Principal</h2>
-<ul>
-<li>Backend: Java +11, Spring Boot, Spring Security, Hibernate/JPA</li>
-<li>Frontend: HTML, CSS, JavaScript, React</li>
-<li>Testing: JUnit 5, Mockito, MockMvc</li>
-<li>Bases de datos: MySQL, H2</li>
-<li>Herramientas: Maven, Git, Swagger, SLF4J</li>
-</ul> 
-
+<h2>CONTACTO</h2>
+<p>Email: msalejos7l@gmail.com</p>
