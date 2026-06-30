@@ -7,10 +7,15 @@ Backend developer con raíces en 3D y la IA generativa. Antes construía herrami
 ## Stack principal
 
 **Backend** — Java 11+, Spring Boot, Spring Security, Spring Data, JPA/Hibernate, REST APIs, Microservicios
+
 **Bases de datos** — MySQL, PostgreSQL, MariaDB, H2, DB2
+
 **Testing** — JUnit 5, Mockito, MockMvc, AssertJ
+
 **Automatización & IA** — n8n, MCP (Model Context Protocol), Agentes de IA
+
 **Herramientas / DevOps** — Maven, Git, Swagger, SLF4J
+
 **Frontend** — Angular, HTML, CSS, JavaScript, React
 
 ---
