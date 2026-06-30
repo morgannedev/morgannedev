@@ -31,7 +31,7 @@ Backend developer con raíces en 3D y la IA generativa. Antes construía herrami
 ## Proyectos de referencia
 
 ### Algedro ERP
-[https://github.com/morgannedev/erp-angular-springboot]
+[github.com/morgannedev/erp-angular-springboot](https://github.com/morgannedev/erp-angular-springboot).
 
 Aplicación web de gestión integral para droguería: inventario, punto de venta (POS), clientes, proveedores y empleados. Stack: Spring Boot 3 · Java 17 · Angular 17 · PostgreSQL · Docker. Desarrollado con TDD estricto — 189 tests, 0 fallos.
 
