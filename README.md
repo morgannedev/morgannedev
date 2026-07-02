@@ -24,7 +24,7 @@ Backend developer con raíces en 3D y la IA generativa. Antes construía herrami
 
 - ERP empresarial con Spring Boot + Angular + Docker — arquitectura real, no un tutorial
 - Automatización con n8n + agentes de IA (MCP) — flujos que conectan datos, usuarios y herramientas
-- Próximo paso: Grado en Ciencia de Datos
+- Próximo paso: Grado en Ciencia de Datos para especializarme en sistemas backend orientados a datos
 
 ---
 
