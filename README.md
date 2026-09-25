@@ -57,11 +57,8 @@ Backend developer with roots in 3D. I used to build tools and automate pipelines
 * Ensured 100% operational continuity during migration by implementing backward-compatible services, maintaining system stability throughout the entire transition.
 * Delivered evolutionary maintenance on existing ERP modules, resolving critical bugs and implementing new features based on business requirements.
 
-**Software Developer (Tools & Automation)** | Labster (Remote / International) | Oct 2021 - Jan 2023
-* Developed interactive laboratory simulations and internal tools for a global EdTech company serving over 3,000 universities and schools worldwide.
-* Reduced 3D content production time by 20% by designing custom C# scripts for Unity Editor that automated asset validation and pipeline workflows.
-* Eliminated manual validation errors by implementing automated asset validation routines, ensuring all 3D models met technical and artistic standards before integration into production.
-* Maintained high simulation quality across multiple concurrent releases using Git version control and Agile methodologies within a globally distributed team.
+**3D Artist** | Labster (Remote / International) | Oct 2021 - Jan 2023
+3D Artist at a global EdTech company (partnered with 3,000+ universities and educational institutions), creating interactive props, characters, and laboratory simulations for Unity within an agile, globally distributed team. Ensured high quality across concurrent simulation releases using Git and Agile/Scrum methodologies in an international setup.
 
 ---
 
