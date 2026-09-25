@@ -58,7 +58,7 @@ Backend developer with roots in 3D. I used to build tools and automate pipelines
 * Delivered evolutionary maintenance on existing ERP modules, resolving critical bugs and implementing new features based on business requirements.
 
 **3D Artist** | Labster (Remote / International) | Oct 2021 - Jan 2023
-3D Artist at a global EdTech company (partnered with 3,000+ universities and educational institutions), creating interactive props, characters, and laboratory simulations for Unity within an agile, globally distributed team. Ensured high quality across concurrent simulation releases using Git and Agile/Scrum methodologies in an international setup.
+* 3D Artist at a global EdTech company (partnered with 3,000+ universities and educational institutions), creating interactive props, characters, and laboratory simulations for Unity within an agile, globally distributed team. Ensured high quality across concurrent simulation releases using Git and Agile/Scrum methodologies in an international setup.
 
 ---
 
